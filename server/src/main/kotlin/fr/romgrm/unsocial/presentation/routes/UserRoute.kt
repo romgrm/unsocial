@@ -1,4 +1,4 @@
-import fr.romgrm.unsocial.models.userStorage
+import fr.romgrm.unsocial.domain.entities.userStorage
 import io.ktor.server.application.*
 import io.ktor.server.response.*
 import io.ktor.server.routing.*
